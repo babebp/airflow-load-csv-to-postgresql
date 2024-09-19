@@ -1,0 +1,101 @@
+idx,label,problem,solution
+0,addition,What is the sum of 12 and 23?,35
+1,subtraction,"If you have 50 apples and you give away 29, how many are left?",21
+2,multiplication,What do you get when you multiply 7 by 6?,42
+3,division,"If you have 48 cookies and want to divide them equally among 8 friends, how many does each get?",6
+4,factorization,Express 30 as a product of its prime factors.,5 * 3 * 2
+5,addition,What is the sum of 34 and 19?,53
+6,subtraction,What is the result of subtracting 15 from 42?,27
+7,multiplication,8 times 9 equals what?,72
+8,simple_division,"A pizza is cut into 8 equal slices. If 2 slices are eaten, how many slices are left?",6
+9,factorization,Factorize the number 36.,2^2 * 3^2
+10,addition,27 + 14 =,41
+11,subtraction,What is the result of subtracting 17 from 56?,39
+12,multiplication,What is the product of 8 and 9?,72
+13,division,"If a pizza is cut into 8 equal slices and 3 people want to share it equally, how many slices does each person get?",2.666...
+14,factorization,Factorize the number 28 into prime factors.,2^2 * 7
+15,addition,How much do you get when you add 15 and 27 together?,42
+16,subtraction,"If a train travels 120 miles and stops for 20 miles of maintenance, how many miles has it covered?",100
+17,multiplication,"If there are 7 rows with 6 chairs each, how many chairs are there in total?",42
+18,division_with_remainder,"If you have 27 chocolates and you want to share them equally among 4 friends, how many chocolates does each friend get and how many are left?",6 with remainder 3
+19,factorization,Find the prime factors of 100.,2^2 * 5^2
+20,addition,9 + 8 + 3 =,20
+21,subtraction,"If a train travels 120 miles and stops for 20 miles of maintenance, how far does it need to travel afterward?",100
+22,multiplication,Calculate 14 times 15.,195
+23,division,How many minutes are in 7 hours and 45 minutes?,465
+24,factorization,What are the prime factors of 45?,3^2 * 5
+25,addition,"If you have 10 apples and you buy 5 more, how many apples do you have?",15
+26,subtraction,"A book has 250 pages, and you've read 127. How many pages do you have left?",123
+27,multiplication,A pack of stickers contains 10 stickers. How many stickers are there in 12 packs?,120
+28,integer_division,How many times does 5 go into 25?,5
+29,factorization,What are the prime factors of 143?,11 * 13
+30,addition,68 + 22 =,90
+31,subtraction,How many more days are there in February than in March?,28
+32,multiplication,"If you have 7 baskets with 6 apples each, how many apples do you have in total?",42
+33,division,"If you have a rope 30 meters long and cut it into pieces each 2.5 meters long, how many pieces do you have?",12
+34,factorization,Express 56 as a product of prime numbers.,2^3 * 7
+35,addition,A book costs $8 and a pen costs $3. How much do they cost together?,$11
+36,subtraction,"A cake recipe requires 4 eggs, but you only have 1 left. How many more do you need?",3
+37,multiplication,How many legs do 5 spiders have in total?,20
+38,fractional_division,"If you have 3/4 of a pizza and you want to divide it equally between 2 people, what fraction of the whole pizza does each person get?",3/8
+39,factorization,Express 108 as a product of its prime factors.,2^2 * 3^3
+40,addition,100 + 250 =,350
+41,subtraction,"A store had 150 balloons. If 48 balloons were sold, how many balloons are left?",102
+42,multiplication,What is the result of 11 multiplied by 11?,121
+43,division,A printer prints 300 pages in 5 minutes. How many pages does it print per minute?,60
+44,factorization,Identify the prime factorization of 63.,3^2 * 7
+45,addition,Tom has 20 marbles and Jerry has 13 marbles. How many marbles do they have in total?,33
+46,subtraction,"If you had $150 and spent $47 on groceries, how much money do you have now?",103
+47,multiplication,A dozen eggs contains how many eggs?,12
+48,division_story,Emma has 15 balloons and she wants to give an equal number of balloons to each of her 3 friends. How many balloons will each friend receive?,5
+49,factorization,How can you write 225 as a product of prime numbers?,5^2 * 11
+50,addition,13 + 21 =,34
+51,subtraction,"If you read 12 chapters of a book and you haven't read 7, how many chapters have you read?",5
+52,multiplication,How many legs do 5 spiders have in total?,20
+53,division,"If a car travels 240 miles in 4 hours, what is its average speed in miles per hour?",60
+54,factorization,How can you write 100 as a product of prime factors?,2^2 * 5^2
+55,addition,You scored 75 points in the first round and 68 points in the second round. What is your total score?,143
+56,subtraction,A library had 185 books and donated 23 to a school. How many books remain?,162
+57,multiplication,"If a movie lasts for 2 hours and there are 3 such movies in a marathon, how long is the marathon?",6 hours
+58,real_world_division,A car travels 120 miles in 3 hours. What is the average speed of the car in miles per hour?,40 mph
+59,factorization,Break down 192 into its prime factors.,2^6 * 3
+60,addition,46 + 53 =,99
+61,subtraction,"An athlete completed 10 laps, but 3 laps were disqualified. How many laps were left to complete?",7
+62,multiplication,A gardener plants 13 rows of flowers with 9 flowers in each row. How many flowers are there in total?,117
+63,division,You have a total of 144 cookies and want to put them into bags with 8 cookies each. How many bags do you fill?,18
+64,factorization,Factorize the number 144 into its prime components.,2^4 * 3^2
+65,addition,There are 15 cars in the parking lot and 22 more cars arrive. How many cars are there now?,37
+66,subtraction,A car's tank is filled with 50 liters of fuel and uses 22 liters on a trip. How much fuel is left in the tank?,28
+67,multiplication,"A baker makes 12 cookies per batch and makes 8 batches, how many cookies does the baker make?",96
+68,simple_fractional_division,"A recipe calls for 2/3 cup of sugar, but you only want to make half the recipe. How much sugar do you need?",1/3 cup
+69,factorization,Determine the prime factors of 210.,2 * 3 * 5 * 7
+70,addition,10 + 10 + 10 =,30
+71,subtraction,A farmer harvested 80 bushels of wheat and sold 30. How many bushels are left in storage?,50
+72,multiplication,What is 7 multiplied by 8?,56
+73,division,A farmer collects 288 eggs from his chickens over 12 days. How many eggs does he collect per day?,24
+74,factorization,What is the prime factorization of 81?,3^4
+75,addition,Sarah has 18 stickers and buys 10 more. How many stickers does she have now?,28
+76,subtraction,"An athlete completes 100 meters in 12 seconds. If the target time is 10 seconds, by how much did the athlete exceed the target?",2
+77,multiplication,A school has 6 classes and each class has 24 students. How many students are there in the school?,144
+78,division_puzzle,"If you have 48 pieces of candy and want to put them into bags with 6 pieces in each, how many bags can you make?",8
+79,factorization,What are the prime factors of 250?,2 * 5^3
+80,addition,145 + 55 =,200
+81,subtraction,"If a pizza has 8 slices and 5 slices are eaten, how many slices are remaining?",3
+82,multiplication,"If a book has 4 chapters and each chapter has 5 pages, how many pages are there in total?",20
+83,division,A movie theater has 256 seats and is divided into 8 equal sections. How many seats are in each section?,32
+84,factorization,Break down 101 into prime factors.,101 (101 is a prime number)
+85,addition,"If you have 48 candies and give away 23, how many candies are left?",25
+86,subtraction,"If a football team scores 3 touchdowns and the opposing team scores 14 points, how many more points does the first team need to win?",7 (assuming a touchdown is 6 points and the extra point is 1)
+87,multiplication,"A book has 20 chapters, and each chapter has 15 pages. How many pages does the book have?",300
+88,equal_sharing,"If there are 36 students and 18 chairs, how many students can sit on each chair if the chairs are shared equally?",2 students per chair
+89,factorization,Factorize 77 into prime factors.,7 * 11
+90,addition,89 + 16 =,105
+91,subtraction,"A movie marathon lasted for 15 hours and ended at 2 AM, what time did it start?",9 PM
+92,multiplication,"A farmer has 6 fields, and each field has 10 cows. How many cows does the farmer have?",60
+93,division,"A recipe calls for 4 cups of flour, but you want to make half the amount. How many cups do you need?",2
+94,factorization,Express 121 as a product of primes.,11^2
+95,addition,What is the total when you combine 45 students and 37 students in the classroom?,82
+96,subtraction,A gardener has 60 tulip bulbs and plants 29 in the garden. How many tulip bulbs are still unplanted?,31
+97,multiplication,"A recipe calls for 4 cups of flour, and you want to make half the recipe. How much flour do you need?",2 cups
+98,repeated_division,How many times does the number 4 fit into 40 without going over?,10
+99,factorization,Identify the prime factors of 504.,2^3 * 3^2 * 7
