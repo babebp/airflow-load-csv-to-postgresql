@@ -1,0 +1,11 @@
+idx,label,problem,solution
+1,addition,What is the sum of 12 and 23?,35
+2,subtraction,"If you have 50 apples and you give away 29, how many are left?",21
+3,multiplication,What do you get when you multiply 7 by 6?,42
+4,division,"If you have 48 cookies and want to divide them equally among 8 friends, how many does each get?",6
+5,factorization,Express 30 as a product of its prime factors.,5 * 3 * 2
+6,addition,What is the sum of 34 and 19?,53
+7,subtraction,What is the result of subtracting 15 from 42?,27
+8,multiplication,8 times 9 equals what?,72
+9,simple_division,"A pizza is cut into 8 equal slices. If 2 slices are eaten, how many slices are left?",6
+10,factorization,Factorize the number 36.,2^2 * 3^2
